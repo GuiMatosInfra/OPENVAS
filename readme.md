@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Instalação do OpenVAS com Docker</title>
 </head>
 <body>
   <h1>Instalação do OpenVAS com Docker</h1>
