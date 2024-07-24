@@ -35,5 +35,9 @@
 
   <h3>Nota de Segurança</h3>
   <p>É importante configurar medidas de segurança adequadas antes de expor o OpenVAS publicamente.</p>
+
+  <h3>Credenciais Padrão</h3>
+  <p>Nome de usuário: <code>admin</code></p>
+  <p>Senha: <code>admin</code></p>
 </body>
 </html>
